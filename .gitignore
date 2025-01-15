@@ -1,0 +1,8 @@
+_site
+Gemfile.lock
+.ipynb_checkpoints
+data
+my_notebooks
+slides_and_videos
+syllabus
+solutions
